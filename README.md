@@ -1,5 +1,5 @@
 # PAH_Analysis
-Code for analysing polycyclic aromatic hydrocarbons
+Code for analysing polycyclic aromatic hydrocarbons (PAHs)
 
 miller_PAH_analysis_wDPO.py was developed to run on a HPC across multiple CPUs. In the form here, it works, but has some redundant old functions that haven't been removed (at this stage).
 
